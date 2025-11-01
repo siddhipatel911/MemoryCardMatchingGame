@@ -16,7 +16,7 @@ This project showcases Java Swing event-driven programming, randomization, timer
 ## Features
 
 ### 🃏 Card Flipping Mechanics
-- 12 or more cards arranged in a grid layout.
+- 20 cards arranged in a grid layout.
 - Each card hides an image underneath its back design.
 - Clicking flips the card to reveal the hidden image.
 - Two cards stay flipped if they match; otherwise, they flip back automatically.
